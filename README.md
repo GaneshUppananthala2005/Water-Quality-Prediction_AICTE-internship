@@ -54,8 +54,19 @@ Performance was acceptable across all parameters
 - **Internship Type**: AICTE Virtual Internship - Edunet Foundation
 - **Sponsor**: Shell  
 - **Duration**: June 2025 (1 month)  
-- **Focus Area**: Machine Learning in Environmental Monitoring  
+- **Focus Area**: Machine Learning in Environmental Monitoring
 
+## 🔍 Key Features
+Data Exploration & Visualization
+Conducted thorough EDA to unveil patterns, handle missing values, and understand feature correlations. Used plots like histograms, correlation matrices, and distribution charts to gain insights into parameters such as pH, hardness, solids, chloramines, turbidity, conductivity, organic carbon, sulfate, trihalomethanes, and more.
+
+Multiple Machine Learning Models
+Built and evaluated a variety of classifiers, including Logistic Regression, Decision Trees, Random Forests, K‑Nearest Neighbors, Support Vector Machine, Naive Bayes, and XGBoost.
+Identified SVM (or Random Forest, depending on your result) as the top-performer, balancing accuracy with precision.
+
+# Best regards
+U.Ganesh
+https://github.com/GaneshUppananthala2005
 ---
 
 
